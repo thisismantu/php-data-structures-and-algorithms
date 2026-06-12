@@ -110,6 +110,28 @@ php-data-structures-and-algorithms/
 └── README.md
 ```
 
+<!-- php
+php8
+data-structures
+algorithms
+dsa
+problem-solving
+coding-interview
+leetcode
+competitive-programming
+backend-development
+software-engineering
+computer-science
+data-structures-and-algorithms
+coding-challenges
+interview-preparation
+php-developer
+programming
+algorithm-design
+technical-interview
+learning-resources -->
+
+
 ---
 
 ## Getting Started
