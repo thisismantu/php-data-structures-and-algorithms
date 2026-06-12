@@ -83,53 +83,51 @@ Whether you are preparing for technical interviews, competitive programming, bac
 ```text
 php-data-structures-and-algorithms/
 │
-├── 01-Basics
-├── 02-Time-And-Space-Complexity
-├── 03-Arrays
-├── 04-Strings
-├── 05-Recursion
-├── 06-Searching
-├── 07-Sorting
-├── 08-Linked-List
-├── 09-Stack
-├── 10-Queue
-├── 11-Hashing
-├── 12-Trees
-├── 13-Heap
-├── 14-Graphs
-├── 15-Greedy-Algorithms
-├── 16-Dynamic-Programming
-├── 17-Backtracking
-├── 18-Sliding-Window
-├── 19-Two-Pointers
-├── 20-Bit-Manipulation
-├── 21-Math-And-Number-Theory
-├── 22-LeetCode-Problems
-├── 23-Interview-Questions
+├── Fundamentals
+│   ├── Variables
+│   ├── DataTypes
+│   ├── Operators
+│   ├── Conditionals
+│   ├── Loops
+│   └── Functions
+│
+├── Complexity
+│   ├── TimeComplexity
+│   └── SpaceComplexity
+│
+├── DataStructures
+│   ├── Arrays
+│   ├── Strings
+│   ├── LinkedLists
+│   ├── Stacks
+│   ├── Queues
+│   ├── HashTables
+│   ├── Trees
+│   ├── Heaps
+│   └── Graphs
+│
+├── Algorithms
+│   ├── Searching
+│   ├── Sorting
+│   ├── Recursion
+│   ├── Greedy
+│   ├── DynamicProgramming
+│   ├── Backtracking
+│   ├── SlidingWindow
+│   ├── TwoPointers
+│   ├── BitManipulation
+│   └── Math
+│
+├── ProblemSolving
+│   ├── LeetCode
+│   ├── CodingChallenges
+│   └── InterviewQuestions
+│
+├── Resources
 │
 └── README.md
 ```
 
-<!-- php
-php8
-data-structures
-algorithms
-dsa
-problem-solving
-coding-interview
-leetcode
-competitive-programming
-backend-development
-software-engineering
-computer-science
-data-structures-and-algorithms
-coding-challenges
-interview-preparation
-php-developer
-programming
-algorithm-design
-technical-interview
-learning-resources -->
 
 
 ---
